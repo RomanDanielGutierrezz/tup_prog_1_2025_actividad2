@@ -1,5 +1,5 @@
 
-ejercicio blabla
+ejercicio blabla - blabla
 ```
 Algoritmo mayor_valor
 	Definir Mvalue Como Real;
